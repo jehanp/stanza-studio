@@ -1,0 +1,75 @@
+# Green Pastures
+
+**Song Number:** 01
+**Target Date:** April 13, 2026
+**Scripture Source:** Psalm 23:1-6 _(personal reference — not published)_
+**Genre:** Indie Folk / Acoustic
+
+---
+
+### Verse 1
+
+I walked out past the edge of what I knew,
+where the streetlights gave up and the pavement turned to dew.
+Something led me through the gate I didn't see —
+there were fields out there, green and wide, just waiting there for me.
+
+### Pre-Chorus
+
+And the water didn't rush, didn't roar, didn't race —
+it just held still like a mirror showing grace.
+
+### Chorus
+
+I don't need a thing, I don't need a thing —
+there's a table in the dark with an empty chair for me.
+Pour it out until it spills, let it overflow —
+I was lost inside the valley, but I'm not walking alone.
+
+### Verse 2
+
+There's an underpass where the light forgets to reach,
+and I swore I heard my name in what the shadows tried to teach.
+But a hand I couldn't see set a flame beside my plate,
+and the fear that used to own me showed up a day too late.
+
+### Chorus
+
+I don't need a thing, I don't need a thing —
+there's a table in the dark with an empty chair for me.
+Pour it out until it spills, let it overflow —
+I was lost inside the valley, but I'm not walking alone.
+
+### Bridge
+
+Oil on my forehead, I don't know whose hands —
+kindness at my shoulder like it already had plans.
+Every room I've ever left still has the lights turned on,
+every road I thought was ending was just the longer dawn.
+
+### Final Chorus
+
+I don't need a thing, I don't need a thing —
+there's a table in the dark and it's set for you and me.
+Pour it out until it spills, let it overflow —
+I was lost inside the valley, but I was never on my own.
+
+### Outro
+
+Green pastures in the rearview,
+green pastures up ahead.
+
+---
+
+## Imagery Notes
+
+| Scripture Image | Lyric Translation |
+|---|---|
+| "The Lord is my shepherd; I shall not want" | "I don't need a thing" — contentment as a refrain |
+| "He maketh me to lie down in green pastures" | "Fields out there, green and wide" — open safety |
+| "He leadeth me beside the still waters" | "Water didn't rush… held still like a mirror" |
+| "Valley of the shadow of death" | "The underpass where the light forgets to reach" |
+| "Thou preparest a table before me in the presence of mine enemies" | "A table in the dark with an empty chair for me" |
+| "My cup runneth over" | "Pour it out until it spills, let it overflow" |
+| "Thou anointest my head with oil" | "Oil on my forehead, I don't know whose hands" |
+| "Goodness and mercy shall follow me" | "Kindness at my shoulder like it already had plans" |
