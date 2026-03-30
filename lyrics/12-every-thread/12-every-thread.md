@@ -33,7 +33,7 @@ and you stayed, and you stayed.
 I wore a hundred faces to a hundred different rooms,
 changed the accent, changed the laugh, changed the tune.
 But you saw the version underneath the costume,
-the 3 a.m. edition, the unedited, the true.
+the midnight-hour edition, the unedited, the true.
 
 If I climbed the highest frequency of heaven,
 or I buried myself beneath the basement floor —
@@ -87,6 +87,6 @@ Before I knew myself, you knew me.
 | "If I ascend up into heaven… if I make my bed in hell" | "Climbed the highest frequency of heaven / buried beneath the basement floor" |
 | "The darkness and the light are both alike to thee" | "The darkness isn't dark to you" |
 | "I am fearfully and wonderfully made" | "Fearfully, wonderfully undone / unwound / complete" |
-| "Thine eyes did see my substance, yet being unperfect" | "The 3 a.m. edition, the unedited, the true" |
+| "Thine eyes did see my substance, yet being unperfect" | "The midnight-hour edition, the unedited, the true" |
 | "How precious also are thy thoughts unto me… more than the sand" | "How precious are the thoughts you think of me… outnumber the sand" |
 | "When I awake, I am still with thee" | "I wake up every morning still inside the sentence" |

@@ -35,9 +35,9 @@ This is what remains.
 ### Verse 2
 
 You didn't boast when you were right — and you were right a lot —
-you didn't envy what the others had.
+you didn't envy what the others wore.
 You made the small things big and let the big things breathe,
-and you forgave me for the worst I'd ever been and had.
+and you forgave the parts of me I couldn't stand before.
 
 You weren't easily provoked, but God, I tried —
 slammed the doors on every metaphor for love.

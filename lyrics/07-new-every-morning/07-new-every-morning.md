@@ -9,8 +9,8 @@
 
 ### Verse 1
 
-Three a.m. again — the ceiling knows my name,
-every crack a map of all the places I went wrong.
+The dark won't quit — these walls have learned my name,
+every hour a map of all the places I went wrong.
 The bitterness is sitting on my tongue like copper,
 and the night is singing yesterday's same tired song.
 
@@ -23,7 +23,7 @@ and the gall of what I'll never get to say again.
 
 ### Pre-Chorus
 
-But I remember — somewhere underneath the wreckage,
+But I remember — somewhere underneath the deadwood,
 there's a reason I haven't shut my eyes for good.
 
 ### Chorus
@@ -82,7 +82,7 @@ The sun doesn't keep a record of the dark.
 |---|---|
 | "Remembering mine affliction… the wormwood and the gall" | "Bitterness on my tongue like copper" / "the weight of wormwood" |
 | "My soul hath them still in remembrance, and is humbled" | The insomnia and replaying regrets of verses 1–2 |
-| "This I recall to my mind, therefore have I hope" | "I remember — somewhere underneath the wreckage" |
+| "This I recall to my mind, therefore have I hope" | "I remember — somewhere underneath the deadwood" |
 | "His compassions fail not" | "The compassion doesn't fail / doesn't end" |
 | "They are new every morning" | "Morning — it arrives like mercy" / "new and undeserved" |
 | "Great is thy faithfulness" | "Great is the faithfulness I cannot name" |
