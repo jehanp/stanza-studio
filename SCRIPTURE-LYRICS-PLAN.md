@@ -1,6 +1,6 @@
 # Scripture-to-Lyrics Conversion Plan
 
-> A bi-weekly plan for transforming Bible scripture into subtle, deeply meaningful song lyrics — April through September 2026.
+> A bi-weekly plan for transforming Bible scripture into subtle, deeply meaningful song lyrics — April through October 2026.
 
 ---
 
@@ -196,6 +196,18 @@ Each song is rooted in a specific Bible passage but written so that the scriptur
 
 ---
 
+### Song 14 — October 12, 2026
+
+| Detail | |
+|---|---|
+| **Book & Chapter** | **Isaiah 53** |
+| **Key Verses** | Isaiah 53:3-6 — _"He was despised and rejected by mankind, a man of suffering, and familiar with pain… He was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed."_ |
+| **Core Theme** | Carrying the weight of others' pain — redemptive suffering and silent sacrifice |
+| **Subtle Lyric Angle** | Write about someone who absorbs the pain around them — a parent shielding a child, a friend who takes the blame, a figure who is misunderstood and dismissed yet keeps showing up. Use imagery of bruises that aren't their own, silence in the courtroom, a lamb led without protest, and scars that somehow become the source of healing for everyone else. The lyric should ache with injustice in the verses and arrive at a quiet, devastating beauty in the chorus: the idea that brokenness can mend what nothing else could. Never name the servant — let the listener see someone they know, or themselves. |
+| **Suggested Genre** | **Dark Folk / Blues Americana** — raw acoustic guitar, slide guitar, a voice weathered and low, spare and haunting — the kind of song that fills a room by emptying it |
+
+---
+
 ## Scripture Reference Summary
 
 | # | Date | Book | Chapter/Verses | Theme Keyword |
@@ -213,6 +225,7 @@ Each song is rooted in a specific Bible passage but written so that the scriptur
 | 11 | Aug 31 | Matthew | 5:3-12 | Blessedness |
 | 12 | Sep 14 | Psalms | 139:1-18 | Known |
 | 13 | Sep 28 | Revelation | 21:1-5 | Renewal |
+| 14 | Oct 12 | Isaiah | 53:3-6 | Redemptive Suffering |
 
 ---
 
@@ -233,6 +246,7 @@ Each song is rooted in a specific Bible passage but written so that the scriptur
 | Indie Pop / Folk-Pop | 11 |
 | Piano Ballad / Chamber Pop | 12 |
 | Gospel-influenced Orchestral Pop | 13 |
+| Dark Folk / Blues Americana | 14 |
 
 ---
 
@@ -255,6 +269,7 @@ lyrics/
   11-the-lucky-ones.md        ← Matthew 5
   12-every-thread.md          ← Psalm 139
   13-all-things-new.md        ← Revelation 21
+  14-the-weight-he-carried.md ← Isaiah 53
 ```
 
 Each lyric file should include:
