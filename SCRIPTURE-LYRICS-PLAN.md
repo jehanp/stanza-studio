@@ -40,6 +40,20 @@ Each song is rooted in a specific Bible passage but written so that the scriptur
 
 ## Bi-Weekly Song Schedule
 
+### Song 0 — March 30, 2026 *(Completed)*
+
+| Detail | |
+|---|---|
+| **Book & Chapter** | **John 1:1-15** |
+| **Key Verses** | _"In the beginning was the Word… And the Word was made flesh, and dwelt among us, full of grace and truth."_ |
+| **Core Theme** | The eternal becoming finite — glory choosing to wear dust |
+| **Subtle Lyric Angle** | A meditation on the moment eternity entered time. The lyric moves from creation ("the Word whispered: be") through the shock of rejection ("He came to His own") to the quiet miracle of adoption ("Not earthborn their right / But breathed into light"). Frames an encounter with something ancient and unnamed without ever citing scripture. |
+| **Suggested Genre** | **Orchestral Alternative Rock** — sentimental, dark melodic, e-violin-led, orchestral swell |
+| **Suno Tags** | `sentimental, e-violin, dark melodic, orchestrale, alternative rock` — Style Influence 80% |
+| **Status** | ✅ Completed — *Glory Veiled in Dust* |
+
+---
+
 ### Song 1 — April 13, 2026
 
 | Detail | |
@@ -212,6 +226,7 @@ Each song is rooted in a specific Bible passage but written so that the scriptur
 
 | # | Date | Book | Chapter/Verses | Theme Keyword |
 |---|------|------|----------------|---------------|
+| 0 | Mar 30 | John | 1:1-15 | Incarnation ✅ |
 | 1 | Apr 13 | Psalms | 23:1-6 | Peace |
 | 2 | Apr 27 | Ecclesiastes | 3:1-8 | Seasons |
 | 3 | May 11 | Isaiah | 40:28-31 | Strength |
@@ -233,6 +248,7 @@ Each song is rooted in a specific Bible passage but written so that the scriptur
 
 | Genre | Songs |
 |-------|-------|
+| Orchestral Alternative Rock | 0 |
 | Indie Folk / Acoustic | 1 |
 | Soul / R&B Ballad | 2 |
 | Cinematic Pop / Anthemic | 3 |
@@ -256,6 +272,7 @@ As each song is completed, the lyric file should be added to the `lyrics/` direc
 
 ```
 lyrics/
+  00-glory-veiled-in-dust.md  ← John 1:1-15 ✅
   01-green-pastures.md        ← Psalm 23
   02-a-time-for-everything.md ← Ecclesiastes 3
   03-wings.md                 ← Isaiah 40
