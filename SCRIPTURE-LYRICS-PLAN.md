@@ -272,21 +272,51 @@ As each song is completed, the lyric file should be added to the `lyrics/` direc
 
 ```
 lyrics/
-  00-glory-veiled-in-dust.md  ← John 1:1-15 ✅
-  01-green-pastures.md        ← Psalm 23
-  02-a-time-for-everything.md ← Ecclesiastes 3
-  03-wings.md                 ← Isaiah 40
-  04-come-away.md             ← Song of Solomon 2
-  05-nothing-can.md           ← Romans 8
-  06-let-there-be.md          ← Genesis 1
-  07-new-every-morning.md     ← Lamentations 3
-  08-straight-ahead.md        ← Proverbs 4
-  09-what-remains.md          ← 1 Corinthians 13
-  10-where-were-you.md        ← Job 38
-  11-the-lucky-ones.md        ← Matthew 5
-  12-every-thread.md          ← Psalm 139
-  13-all-things-new.md        ← Revelation 21
-  14-the-weight-he-carried.md ← Isaiah 53
+  00-glory-veiled-in-dust/
+    00-glory-veiled-in-dust.md   ← full lyrics + imagery notes
+    00-glory-veiled-in-dust.txt  ← Suno-ready (style + lyrics only)
+  01-green-pastures/
+    01-green-pastures.md
+    01-green-pastures.txt
+  02-a-time-for-everything/
+    02-a-time-for-everything.md
+    02-a-time-for-everything.txt
+  03-wings/
+    03-wings.md
+    03-wings.txt
+  04-come-away/
+    04-come-away.md
+    04-come-away.txt
+  05-nothing-can/
+    05-nothing-can.md
+    05-nothing-can.txt
+  06-let-there-be/
+    06-let-there-be.md
+    06-let-there-be.txt
+  07-new-every-morning/
+    07-new-every-morning.md
+    07-new-every-morning.txt
+  08-straight-ahead/
+    08-straight-ahead.md
+    08-straight-ahead.txt
+  09-what-remains/
+    09-what-remains.md
+    09-what-remains.txt
+  10-where-were-you/
+    10-where-were-you.md
+    10-where-were-you.txt
+  11-the-lucky-ones/
+    11-the-lucky-ones.md
+    11-the-lucky-ones.txt
+  12-every-thread/
+    12-every-thread.md
+    12-every-thread.txt
+  13-all-things-new/
+    13-all-things-new.md
+    13-all-things-new.txt
+  14-the-weight-he-carried/
+    14-the-weight-he-carried.md
+    14-the-weight-he-carried.txt
 ```
 
 Each lyric file should include:
