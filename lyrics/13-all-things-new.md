@@ -1,0 +1,86 @@
+# All Things New
+
+**Song Number:** 13
+**Target Date:** September 28, 2026
+**Scripture Source:** Revelation 21:1-5 _(personal reference — not published)_
+**Genre:** Gospel-influenced Orchestral Pop
+
+---
+
+### Verse 1
+
+I've been walking through the ashes of the old world,
+carrying the photographs of everything that burned.
+The grief was like a city I kept circling,
+every street a lesson I had already learned.
+
+But this morning something shifted in the atmosphere —
+the skyline isn't smoke, it's something clear.
+I see towers I don't recognise, a river running bright,
+and the ground beneath my feet is warm with light.
+
+### Chorus
+
+All things new, all things new —
+the tears are drying on a cheek I barely knew.
+No more death, no more aching through the night,
+the old world packed its bags and caught an earlier flight.
+All things new — I'm walking into all things new.
+
+### Verse 2
+
+There's a home here I have never seen but somehow know,
+like a melody I've hummed since I was young.
+The one who holds the keys flung every door wide open
+and the welcome wasn't whispered — it was sung.
+
+I heard a voice — not from the sky but from beside me —
+it said, "I'm making everything again from scratch.
+The pain you carried here? I took it at the threshold.
+You can set the suitcase down — you won't need that."
+
+### Chorus
+
+All things new, all things new —
+the mourning's over, and the morning's breaking through.
+No more crying, no more dying in the dark,
+the former things have faded like a candle from a spark.
+All things new — I'm stepping into all things new.
+
+### Bridge
+
+Write it down — these words are faithful, these words are true:
+the one who sat upon the throne said, "Look — I'm making all things new."
+And the sea of glass reflected every scar,
+and every scar was glowing like a star.
+
+### Final Chorus
+
+All things new, all things new —
+every wound is closing, every broken thing made through.
+No more shadow, no more valley, no more night —
+the city's lit from somewhere and it doesn't need a light.
+All things new — I have everything, I have everything.
+
+### Outro
+
+Green pastures in the rearview,
+new city up ahead —
+I shall not want,
+I have everything.
+
+---
+
+## Imagery Notes
+
+| Scripture Image | Lyric Translation |
+|---|---|
+| "And I saw a new heaven and a new earth" | "Towers I don't recognise, a river running bright" |
+| "The first heaven and the first earth were passed away" | "The old world packed its bags" / "The former things have faded" |
+| "And there was no more sea" | "The sea of glass reflected every scar" |
+| "God shall wipe away all tears from their eyes" | "The tears are drying on a cheek I barely knew" |
+| "There shall be no more death, neither sorrow, nor crying" | "No more death, no more aching / crying / dying" |
+| "Behold, I make all things new" | "All things new" — the chorus refrain |
+| "Write: for these words are true and faithful" | "Write it down — these words are faithful, these words are true" |
+| "The tabernacle of God is with men, and he will dwell with them" | "A home here I have never seen but somehow know" / voice "from beside me" |
+| Bookend with Song 1 (Psalm 23) | "Green pastures in the rearview… I shall not want, I have everything" |

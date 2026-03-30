@@ -1,0 +1,91 @@
+# Come Away
+
+**Song Number:** 04
+**Target Date:** May 25, 2026
+**Scripture Source:** Song of Solomon 2:10-13 _(personal reference — not published)_
+**Genre:** Neo-Soul / Jazzy Pop
+
+---
+
+### Verse 1
+
+I built the wall in January,
+stone by stone, I sealed the door.
+Said I'd never let another winter in —
+I'd sleep alone on a warm floor.
+
+But there you were outside the window,
+voice like honey through the glass:
+"The rain stopped hours ago, my love —
+come see what grew while you held fast."
+
+### Pre-Chorus
+
+The fig tree's heavy on the branch,
+the vine is drunk on afternoon.
+I hear the birds return to sing
+a song I thought I'd lost in June.
+
+### Chorus
+
+Come away, come away —
+the winter's gone, the grey gave way.
+Open up your bolted chest,
+love is standing on the step.
+Come away, come away —
+you've been hiding long enough today.
+
+### Verse 2
+
+I pressed my ear against the brick
+and heard the garden breathing soft.
+The doves were paired along the wire —
+even the sky had thawed and coughed.
+
+You didn't knock, you didn't push,
+you just stood there with an open hand.
+And something old inside my ribs
+remembered how to understand.
+
+### Chorus
+
+Come away, come away —
+the winter's gone, the grey gave way.
+Open up your guarded door,
+love is patient, love is sure.
+Come away, come away —
+the flowers came while you were away.
+
+### Bridge
+
+I was the frozen ground,
+you were the stubborn bloom —
+pushing through the frost of me
+to fill the smallest room.
+
+### Final Chorus
+
+Come away, come away —
+the season turned, I couldn't stay.
+I'm stepping past the wall I made,
+love was never far away.
+Come away, come away —
+I think I'm ready for the day.
+
+### Outro
+
+The rain is over, the rain is gone —
+the morning smells like moving on.
+
+---
+
+## Imagery Notes
+
+| Scripture Image | Lyric Translation |
+|---|---|
+| "Rise up, my love, my fair one, and come away" | "Come away, come away" — the chorus refrain as invitation |
+| "The winter is past, the rain is over and gone" | "The rain stopped hours ago" / "The winter's gone, the grey gave way" |
+| "The fig tree putteth forth her green figs" | "The fig tree's heavy on the branch" |
+| "The vines with the tender grape give a good smell" | "The vine is drunk on afternoon" |
+| "The voice of the turtle is heard in our land" | "The doves were paired along the wire" / "I hear the birds return" |
+| "The flowers appear on the earth" | "The flowers came while you were away" |

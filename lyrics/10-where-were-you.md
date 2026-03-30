@@ -1,0 +1,84 @@
+# Where Were You
+
+**Song Number:** 10
+**Target Date:** August 17, 2026
+**Scripture Source:** Job 38:1-11 _(personal reference — not published)_
+**Genre:** Progressive Rock / Art Rock
+
+---
+
+### Verse 1
+
+I had my fists up at the sky again,
+demanding answers like the clouds owed me a debt.
+I filed my grievance with the thunder —
+where's the justice? where's the reason? where's the net?
+
+Then the storm leaned in like a cross-examiner
+and the wind said something I will not forget:
+
+### Chorus
+
+Where were you when the ocean learned its edge,
+when the tide was told "this far and nothing more"?
+Where were you when the morning clocked in for the first time
+and the dark was shown the door?
+Where were you? Where were you?
+
+### Verse 2
+
+I measured every loss against the scale I built myself,
+kept the receipts for every unanswered prayer.
+I demanded blueprints from the architect of weather —
+but the blueprint was the question, and the question was the answer hanging there.
+
+The whirlwind didn't flinch, didn't comfort, didn't scold —
+it just asked me things I'd never thought to hold:
+
+### Chorus
+
+Where were you when the sea burst from the womb
+and I swaddled it in fog and set its bars?
+Where were you when I taught the hawk to hover
+and I pinned the belt on Orion's scattered stars?
+Where were you? Where were you?
+
+### Bridge
+
+I wanted answers —
+I got questions bigger than my bones.
+I wanted reasons —
+I got the sound of something ancient in the stones.
+
+And the smallness didn't crush me like I thought it would —
+it set me down, it set me free.
+I am not the architect, I am the clay,
+and the clay doesn't need to understand the wheel to trust the hands.
+
+### Final Chorus
+
+Where were you when the cornerstone was laid,
+when the morning stars were singing in the frame?
+I wasn't there — I wasn't anywhere —
+and still I'm held, and still I'm called by name.
+Where were you? Where were you?
+
+### Outro
+
+I closed my mouth.
+The storm kept speaking.
+And somehow — that was enough.
+
+---
+
+## Imagery Notes
+
+| Scripture Image | Lyric Translation |
+|---|---|
+| "Then the Lord answered Job out of the whirlwind" | "The storm leaned in like a cross-examiner" |
+| "Where wast thou when I laid the foundations of the earth?" | "Where were you when the cornerstone was laid" |
+| "Who shut up the sea behind doors when it burst forth from the womb?" | "Where were you when the sea burst from the womb" |
+| "Hitherto shalt thou come, but no further" | "The ocean learned its edge… this far and nothing more" |
+| "I… wrapped it in thick darkness as a swaddling band" | "Swaddled it in fog and set its bars" |
+| "When the morning stars sang together" | "The morning stars were singing in the frame" |
+| "Hast thou commanded the morning…?" | "The morning clocked in for the first time" |
