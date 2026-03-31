@@ -15,9 +15,9 @@ Someone said my name into the voltage —
 and I flickered, and I didn't look back.
 
 They told me I was formless, I was wasted,
-just a void that didn't earn a shape.
+just a void that didn't earn a name.
 But a voice cut through the white noise:
-"Let there be —" and I began to wake.
+"Let there be —" and nothing was the same.
 
 ### Chorus
 
@@ -36,16 +36,16 @@ Something sorted through the chaos in my marrow,
 separated every truth from every lie.
 
 I was built deliberate — not by accident,
-every atom placed on purpose, not by chance.
-And the one who made the constellations
-looked at me and said, "That's the plan."
+every atom placed on purpose, by design.
+And the one who hung the constellations
+looked at me and said, "You're mine."
 
 ### Chorus
 
 Let there be, let there be —
-a name where they said there was no one.
+a voice where they said there was no one.
 Let there be, let there be —
-I was made for this moment.
+the dark is done, the light has won.
 And it was good, and it was good,
 and it was good.
 
@@ -60,9 +60,9 @@ and said —
 ### Final Chorus
 
 Let there be, let there be —
-fire where they said there were ashes.
+dawn where they predicted only night.
 Let there be, let there be —
-I am not their verdict, I'm the answer.
+I am not their darkness, I'm the light.
 And I am good, and I am good,
 and I am good.
 
@@ -82,5 +82,5 @@ I was called very good.
 | "And God said, Let there be light" | "Let there be" — the chorus as a declaration of identity |
 | "And God divided the light from the darkness" | "The line between the dark and morning" / "separated every truth from every lie" |
 | "God divided the waters" | "The edges where the water meets the sky" |
-| "Let us make man in our image" | "Built deliberate — not by accident, every atom placed on purpose" |
+| "Let us make man in our image" | "Built deliberate — not by accident, every atom placed on purpose, by design" |
 | "And God saw every thing that he had made, and behold, it was very good" | "And it was good" — the refrain / "I was called very good" |

@@ -35,9 +35,9 @@ The one who holds the keys flung every door wide open
 and the welcome wasn't whispered — it was sung.
 
 I heard a voice — not from the sky but from beside me —
-it said, "I'm making everything again from scratch.
+it said, "I'm making everything again, don't be afraid.
 The pain you carried here? I took it at the threshold.
-You can set the suitcase down — you won't need that."
+You can set the suitcase down — the debt is paid."
 
 ### Chorus
 
