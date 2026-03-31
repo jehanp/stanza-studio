@@ -21,7 +21,7 @@ so I gotta watch the combination — can't leave it on the floor.
 Left foot, right foot, straight ahead,
 no detour, no deviation from the path I've set.
 
-### Chorus
+### Hook
 
 Guard it — guard it with everything,
 'cause everything you are flows from this one spring.
@@ -45,7 +45,13 @@ discipline ain't silence, it's a deliberate choice.
 My feet don't turn to swerving avenues no more,
 I removed the crooked lip, put the truth back at the core.
 
-### Chorus
+### Interlude
+
+_(spoken)_
+The path of least resistance
+is just the longest way back to the start.
+
+### Hook
 
 Guard it — guard it with everything,
 'cause everything you are flows from this one spring.
@@ -54,9 +60,8 @@ keep the road between the ditches through the longest night.
 Straight ahead, straight ahead —
 watch what you let in, watch what you let in.
 
-### Bridge
+### Bridge _(spoken)_
 
-_(spoken)_
 They'll tell you the scenic route is living —
 but the scenic route is just a pretty way of drifting.
 I'm not rigid, I'm just rooted,
@@ -64,7 +69,7 @@ I'm not narrow, I'm just pointed.
 Every crooked path I ever walked
 taught me the value of a straight line.
 
-### Final Chorus
+### Final Hook
 
 Guard it — guard it like it's everything,
 'cause everything you love flows from this one spring.
