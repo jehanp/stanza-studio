@@ -10,9 +10,9 @@
 ### Verse 1
 
 He walked into the room like he already knew the verdict,
-shoulders bent beneath a coat that wasn't his.
+shoulders low beneath a coat that didn't fit.
 They looked right through him — the man familiar with the aching —
-and the silence said he wasn't worth the risk.
+and the silence said the world was done with it.
 
 Despised by every jury, acquainted with the sting,
 a face the crowd had memorised to forget.
@@ -41,17 +41,21 @@ The weight he carried wasn't his —
 it was yours, it was mine,
 it was every wrong we'll ever do
 pressed into his spine.
-And the scars became the medicine,
-the breaking was the cure —
+He wore the bruise, he took the fall,
+he bled so we could mend —
+the scars became the medicine,
+the breaking was the end
+of everything that held us down,
+of every chain we wore —
 he was crushed so we could stand up straight,
 and his wounds became the door.
 
 ### Verse 3
 
 They mistook his quiet for weakness, his surrender for defeat,
-wrote him off as just another broken man.
+wrote him off and left him somewhere with the dead.
 But the ones who walked away that evening
-couldn't shake the feeling something changed within their hands.
+couldn't shake the voice still ringing in their head.
 
 A mother touched her own face, found the fever gone.
 A soldier dropped the hammer, couldn't say why.
@@ -64,12 +68,14 @@ The weight he carried wasn't his —
 it was yours, it was mine,
 it was every debt we couldn't pay
 nailed into the line.
-And the scars became the anthem,
-the silence was the sound —
-he was pierced so we could be made whole,
-and his grave turned into ground
-
-where something new is growing now.
+He held the silence like a stone,
+he bled but made no sound —
+the scars became the anthem
+and the silence shook the ground.
+He was pierced so we could be made whole,
+his body bore the cost —
+and his grave turned into garden ground
+where nothing stays lost.
 
 ### Bridge
 
@@ -81,13 +87,17 @@ was laid across the shoulders of a man who called us friend.
 ### Final Chorus
 
 The weight he carried wasn't his —
-it was ours, it was ours,
+it was ours from the start,
 every bruise that bloomed across his back
-was a mercy wearing scars.
-And the punishment bought peace,
-and the breaking set us free —
-he took the whole world's fracture
-so the whole world could breathe.
+was a mercy on his heart.
+He didn't fight, he didn't run,
+he let the hammer fall —
+and the punishment bought peace for us,
+the breaking freed us all.
+He took the whole world's fracture line
+and pressed it to his chest —
+so the whole world could finally breathe,
+and the weary find their rest.
 
 ### Outro
 
