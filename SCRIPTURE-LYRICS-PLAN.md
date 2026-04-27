@@ -54,7 +54,7 @@ Each song is rooted in a specific Bible passage but written so that the scriptur
 
 ---
 
-### Song 1 — April 13, 2026
+### Song 1 — April 13, 2026 *(Completed)*
 
 | Detail | |
 |---|---|
@@ -63,10 +63,11 @@ Each song is rooted in a specific Bible passage but written so that the scriptur
 | **Core Theme** | Finding peace and provision in the midst of uncertainty |
 | **Subtle Lyric Angle** | Write about someone walking through a dark valley (a breakup, a career collapse, a season of doubt) who discovers they are not alone — without ever naming God. Use imagery of green fields, still water, a table set in an unexpected place, and an overflowing cup. |
 | **Suggested Genre** | **Indie Folk / Acoustic** — gentle fingerpicking, warm vocals, a hymn-like simplicity that feels intimate and unhurried |
+| **Status** | ✅ Completed — *Green Pastures* |
 
 ---
 
-### Song 2 — April 27, 2026
+### Song 2 — April 27, 2026 *(Completed)*
 
 | Detail | |
 |---|---|
@@ -75,6 +76,7 @@ Each song is rooted in a specific Bible passage but written so that the scriptur
 | **Core Theme** | The bittersweet beauty of life's seasons and the surrender to timing |
 | **Subtle Lyric Angle** | Frame the lyric around a person standing at a crossroads — reflecting on moments of planting and uprooting, laughing and weeping, holding on and letting go. Use contrasting couplets that mirror the original's poetic structure. The chorus should land on acceptance rather than answers. |
 | **Suggested Genre** | **Soul / R&B Ballad** — lush piano chords, strings, a vocal that aches with lived experience |
+| **Status** | ✅ Completed — *A Time for Everything* |
 
 ---
 
@@ -227,8 +229,8 @@ Each song is rooted in a specific Bible passage but written so that the scriptur
 | # | Date | Book | Chapter/Verses | Theme Keyword |
 |---|------|------|----------------|---------------|
 | 0 | Mar 30 | John | 1:1-15 | Incarnation ✅ |
-| 1 | Apr 13 | Psalms | 23:1-6 | Peace |
-| 2 | Apr 27 | Ecclesiastes | 3:1-8 | Seasons |
+| 1 | Apr 13 | Psalms | 23:1-6 | Peace ✅ |
+| 2 | Apr 27 | Ecclesiastes | 3:1-8 | Seasons ✅ |
 | 3 | May 11 | Isaiah | 40:28-31 | Strength |
 | 4 | May 25 | Song of Solomon | 2:10-13 | Love's Arrival |
 | 5 | Jun 8 | Romans | 8:28-39 | Unbreakable |
