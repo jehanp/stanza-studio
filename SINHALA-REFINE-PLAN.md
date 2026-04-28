@@ -13,6 +13,256 @@
 
 **Order of work per folder:**
 1. Create missing English versions (if any)
+2. Refine existing Sinhala files to literary standard
+3. Create missing Sinhala translations
+
+---
+
+## 00-glory-veiled-in-dust
+
+**English versions:** `.txt`, v5, v6, v7 — missing v2, v3, v4
+
+- [ ] create EN: `00-glory-veiled-in-dust-v2.txt`
+- [ ] create EN: `00-glory-veiled-in-dust-v3.txt`
+- [ ] create EN: `00-glory-veiled-in-dust-v4.txt`
+
+**Sinhala — refine existing:**
+- [ ] refine: `00-glory-veiled-in-dust-si.txt`
+- [ ] SKIP:   `00-glory-veiled-in-dust-si-v5.txt` ← reference, do not touch
+- [ ] refine: `00-glory-veiled-in-dust-si-v6.txt`
+- [ ] refine: `00-glory-veiled-in-dust-si-v7.txt`
+
+**Sinhala — align to new English:**
+- [ ] refine/align: `00-glory-veiled-in-dust-si-v2.txt` ← align to new EN v2
+- [ ] refine/align: `00-glory-veiled-in-dust-si-v3.txt` ← align to new EN v3
+- [ ] refine/align: `00-glory-veiled-in-dust-si-v4.txt` ← align to new EN v4
+
+---
+
+## 01-green-pastures
+
+**English versions:** `.txt`, v2–v7 ✓
+
+**Sinhala — refine existing:**
+- [ ] refine: `01-green-pastures-si.txt`
+- [ ] refine: `01-green-pastures-si-v2.txt`
+- [ ] refine: `01-green-pastures-si-v3.txt`
+- [ ] refine: `01-green-pastures-si-v4.txt`
+- [ ] refine: `01-green-pastures-si-v5.txt`
+- [ ] refine: `01-green-pastures-si-v6.txt`
+- [ ] refine: `01-green-pastures-si-v7.txt`
+
+---
+
+## 02-a-time-for-everything
+
+**English versions:** `.txt`, v2–v7 ✓
+
+**Sinhala — refine existing:**
+- [ ] refine: `02-a-time-for-everything-si.txt`
+- [ ] refine: `02-a-time-for-everything-si-v2.txt`
+- [ ] refine: `02-a-time-for-everything-si-v3.txt`
+- [ ] refine: `02-a-time-for-everything-si-v4.txt`
+- [ ] refine: `02-a-time-for-everything-si-v5.txt`
+- [ ] refine: `02-a-time-for-everything-si-v6.txt`
+- [ ] refine: `02-a-time-for-everything-si-v7.txt`
+
+---
+
+## 03-wings *(si through si-v6 already refined)*
+
+**English versions:** `.txt`, v2–v7 ✓
+
+**Sinhala — create missing:**
+- [ ] create SI: `03-wings-si-v7.txt` ← from `03-wings-v7.txt`
+
+---
+
+## 04-come-away
+
+**English versions:** `.txt`, v2, v3, v4 — missing v5, v6, v7
+
+- [ ] create EN: `04-come-away-v5.txt`
+- [ ] create EN: `04-come-away-v6.txt`
+- [ ] create EN: `04-come-away-v7.txt`
+
+**Sinhala — refine existing:**
+- [ ] refine: `04-come-away-si.txt`
+- [ ] refine: `04-come-away-si-v2.txt`
+
+**Sinhala — create missing:**
+- [ ] create SI: `04-come-away-si-v3.txt` ← from `04-come-away-v3.txt`
+- [ ] create SI: `04-come-away-si-v4.txt` ← from `04-come-away-v4.txt`
+- [ ] create SI: `04-come-away-si-v5.txt` ← from new EN v5
+- [ ] create SI: `04-come-away-si-v6.txt` ← from new EN v6
+- [ ] create SI: `04-come-away-si-v7.txt` ← from new EN v7
+
+---
+
+## 05-nothing-can
+
+**English versions:** `.txt` only — missing v2–v7
+
+- [ ] create EN: v2, v3, v4, v5, v6, v7
+
+**Sinhala — refine existing:**
+- [ ] refine: `05-nothing-can-si.txt`
+
+**Sinhala — create missing:**
+- [ ] create SI: v2, v3, v4, v5, v6, v7
+
+---
+
+## 06-let-there-be
+
+**English versions:** `.txt` only — missing v2–v7
+
+- [ ] create EN: v2, v3, v4, v5, v6, v7
+
+**Sinhala — refine existing:**
+- [ ] refine: `06-let-there-be-si.txt`
+
+**Sinhala — create missing:**
+- [ ] create SI: v2, v3, v4, v5, v6, v7
+
+---
+
+## 07-new-every-morning
+
+**English versions:** `.txt` only — missing v2–v7
+
+- [ ] create EN: v2, v3, v4, v5, v6, v7
+
+**Sinhala — refine existing:**
+- [ ] refine: `07-new-every-morning-si.txt`
+
+**Sinhala — create missing:**
+- [ ] create SI: v2, v3, v4, v5, v6, v7
+
+---
+
+## 08-straight-ahead
+
+**English versions:** `.txt` only — missing v2–v7
+
+- [ ] create EN: v2, v3, v4, v5, v6, v7
+
+**Sinhala — refine existing:**
+- [ ] refine: `08-straight-ahead-si.txt`
+
+**Sinhala — create missing:**
+- [ ] create SI: v2, v3, v4, v5, v6, v7
+
+---
+
+## 09-what-remains
+
+**English versions:** `.txt` only — missing v2–v7
+
+- [ ] create EN: v2, v3, v4, v5, v6, v7
+
+**Sinhala — refine existing:**
+- [ ] refine: `09-what-remains-si.txt`
+
+**Sinhala — create missing:**
+- [ ] create SI: v2, v3, v4, v5, v6, v7
+
+---
+
+## 10-where-were-you
+
+**English versions:** `.txt` only — missing v2–v7
+
+- [ ] create EN: v2, v3, v4, v5, v6, v7
+
+**Sinhala — refine existing:**
+- [ ] refine: `10-where-were-you-si.txt`
+
+**Sinhala — create missing:**
+- [ ] create SI: v2, v3, v4, v5, v6, v7
+
+---
+
+## 11-the-lucky-ones
+
+**English versions:** `.txt` only — missing v2–v7
+
+- [ ] create EN: v2, v3, v4, v5, v6, v7
+
+**Sinhala — refine existing:**
+- [ ] refine: `11-the-lucky-ones-si.txt`
+
+**Sinhala — create missing:**
+- [ ] create SI: v2, v3, v4, v5, v6, v7
+
+---
+
+## 12-every-thread
+
+**English versions:** `.txt` only — missing v2–v7
+
+- [ ] create EN: v2, v3, v4, v5, v6, v7
+
+**Sinhala — refine existing:**
+- [ ] refine: `12-every-thread-si.txt`
+
+**Sinhala — create missing:**
+- [ ] create SI: v2, v3, v4, v5, v6, v7
+
+---
+
+## 13-all-things-new
+
+**English versions:** `.txt` only — missing v2–v7
+
+- [ ] create EN: v2, v3, v4, v5, v6, v7
+
+**Sinhala — refine existing:**
+- [ ] refine: `13-all-things-new-si.txt`
+
+**Sinhala — create missing:**
+- [ ] create SI: v2, v3, v4, v5, v6, v7
+
+---
+
+## 14-the-weight-he-carried
+
+**English versions:** `.txt` only — missing v2–v7
+
+- [ ] create EN: v2, v3, v4, v5, v6, v7
+
+**Sinhala — refine existing:**
+- [ ] refine: `14-the-weight-he-carried-si.txt`
+
+**Sinhala — create missing:**
+- [ ] create SI: v2, v3, v4, v5, v6, v7
+
+---
+
+## Summary
+| | Refines | New EN | New SI | Total |
+|---|---|---|---|---|
+| 00-glory-veiled-in-dust | 6 | 3 | 0 | 9 |
+| 01-green-pastures | 7 | 0 | 0 | 7 |
+| 02-a-time-for-everything | 7 | 0 | 0 | 7 |
+| 03-wings | 0 | 0 | 1 | 1 |
+| 04-come-away | 2 | 3 | 5 | 10 |
+| 05–14 (×10 folders) | 10 | 60 | 60 | 130 |
+| **Total** | **32** | **66** | **66** | **164** |
+
+**Branch:** `feature/sinhala-literary-refine`
+**Reference standard:** `lyrics/00-glory-veiled-in-dust/00-glory-veiled-in-dust-si-v5.txt`
+
+**Quality criteria (Sinhala):**
+- Compressed lines (8–12 syllables), not prose translations
+- Literary past tense (`ගියේය`, `වූවේය`) — no colloquial `-ගත්තා`, `-කළා`
+- Imperative commands in classical form — not spoken form
+- Dash-rhythm punctuation style matching v5 reference
+- No filler rhyme padding
+- Version-specific imagery retained from each English counterpart
+
+**Order of work per folder:**
+1. Create missing English versions (if any)
 2. Create missing Sinhala translations from those new English versions
 3. Refine existing Sinhala files to literary standard
 
