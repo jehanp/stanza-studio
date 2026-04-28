@@ -236,8 +236,12 @@ function parseVersionInfo(
   return null;
 }
 
+interface CountRow {
+  c: number;
+}
+
 export function seed(db: Database.Database): void {
-  const count = (db.prepare("SELECT COUNT(*) as c FROM songs").get() as { c: number }).c;
+  const count = (db.prepare("SELECT COUNT(*) as c FROM songs").get() as CountRow).c;
   if (count > 0) return;
 
   const insertSong = db.prepare(`

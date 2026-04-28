@@ -28,6 +28,8 @@ function StatusBadge({ status }: { status: SunoGeneration["status"] }) {
   );
 }
 
+const SUNO_POLL_INTERVAL_MS = 8000;
+
 export default function SunoPanel({
   slug,
   songTitle,
@@ -91,7 +93,7 @@ export default function SunoPanel({
             return next;
           });
         }
-      }, 8000);
+      }, SUNO_POLL_INTERVAL_MS);
     },
     [pollingIds, onChange]
   );
