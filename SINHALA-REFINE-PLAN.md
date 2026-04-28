@@ -16,6 +16,8 @@
 2. Refine existing Sinhala files to literary standard
 3. Create missing Sinhala translations
 
+> ⚠️ **Work one folder at a time. Complete all steps for a folder, commit, then move to the next.**
+
 ---
 
 ## 00-glory-veiled-in-dust
