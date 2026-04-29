@@ -54,13 +54,13 @@
 **English versions:** `.txt`, v2–v7 ✓
 
 **Sinhala — refine existing:**
-- [ ] refine: `01-green-pastures-si.txt`
-- [ ] refine: `01-green-pastures-si-v2.txt`
-- [ ] refine: `01-green-pastures-si-v3.txt`
-- [ ] refine: `01-green-pastures-si-v4.txt`
-- [ ] refine: `01-green-pastures-si-v5.txt`
-- [ ] refine: `01-green-pastures-si-v6.txt`
-- [ ] refine: `01-green-pastures-si-v7.txt`
+- [x] refine: `01-green-pastures-si.txt`
+- [x] refine: `01-green-pastures-si-v2.txt`
+- [x] refine: `01-green-pastures-si-v3.txt`
+- [x] refine: `01-green-pastures-si-v4.txt`
+- [x] refine: `01-green-pastures-si-v5.txt`
+- [x] refine: `01-green-pastures-si-v6.txt`
+- [x] refine: `01-green-pastures-si-v7.txt`
 
 ---
 
@@ -281,13 +281,13 @@
 ## Phase 1 — Multi-version folders (English complete, refine Sinhala only)
 
 ### 01-green-pastures
-- [ ] refine: `01-green-pastures-si.txt`
-- [ ] refine: `01-green-pastures-si-v2.txt`
-- [ ] refine: `01-green-pastures-si-v3.txt`
-- [ ] refine: `01-green-pastures-si-v4.txt`
-- [ ] refine: `01-green-pastures-si-v5.txt`
-- [ ] refine: `01-green-pastures-si-v6.txt`
-- [ ] refine: `01-green-pastures-si-v7.txt`
+- [x] refine: `01-green-pastures-si.txt`
+- [x] refine: `01-green-pastures-si-v2.txt`
+- [x] refine: `01-green-pastures-si-v3.txt`
+- [x] refine: `01-green-pastures-si-v4.txt`
+- [x] refine: `01-green-pastures-si-v5.txt`
+- [x] refine: `01-green-pastures-si-v6.txt`
+- [x] refine: `01-green-pastures-si-v7.txt`
 
 ### 02-a-time-for-everything
 - [ ] refine: `02-a-time-for-everything-si.txt`
