@@ -16,6 +16,14 @@
 2. Refine existing Sinhala files to literary standard
 3. Create missing Sinhala translations
 
+**Branch and PR workflow (mandatory per folder):**
+1. Checkout to a new branch before beginning work for that folder
+2. Complete the folder work on that branch
+3. Commit all changes for that folder
+4. Push branch to origin
+5. Create PR to `main`
+6. Only then begin the next folder
+
 > ⚠️ **Work one folder at a time. Complete all steps for a folder, commit, then move to the next.**
 
 ---
@@ -24,20 +32,20 @@
 
 **English versions:** `.txt`, v5, v6, v7 — missing v2, v3, v4
 
-- [ ] create EN: `00-glory-veiled-in-dust-v2.txt`
-- [ ] create EN: `00-glory-veiled-in-dust-v3.txt`
-- [ ] create EN: `00-glory-veiled-in-dust-v4.txt`
+- [x] create EN: `00-glory-veiled-in-dust-v2.txt`
+- [x] create EN: `00-glory-veiled-in-dust-v3.txt`
+- [x] create EN: `00-glory-veiled-in-dust-v4.txt`
 
 **Sinhala — refine existing:**
-- [ ] refine: `00-glory-veiled-in-dust-si.txt`
-- [ ] SKIP:   `00-glory-veiled-in-dust-si-v5.txt` ← reference, do not touch
-- [ ] refine: `00-glory-veiled-in-dust-si-v6.txt`
-- [ ] refine: `00-glory-veiled-in-dust-si-v7.txt`
+- [x] refine: `00-glory-veiled-in-dust-si.txt`
+- [x] SKIP:   `00-glory-veiled-in-dust-si-v5.txt` ← reference, do not touch
+- [x] refine: `00-glory-veiled-in-dust-si-v6.txt`
+- [x] refine: `00-glory-veiled-in-dust-si-v7.txt`
 
 **Sinhala — align to new English:**
-- [ ] refine/align: `00-glory-veiled-in-dust-si-v2.txt` ← align to new EN v2
-- [ ] refine/align: `00-glory-veiled-in-dust-si-v3.txt` ← align to new EN v3
-- [ ] refine/align: `00-glory-veiled-in-dust-si-v4.txt` ← align to new EN v4
+- [x] refine/align: `00-glory-veiled-in-dust-si-v2.txt` ← align to new EN v2
+- [x] refine/align: `00-glory-veiled-in-dust-si-v3.txt` ← align to new EN v3
+- [x] refine/align: `00-glory-veiled-in-dust-si-v4.txt` ← align to new EN v4
 
 ---
 
@@ -295,16 +303,16 @@
 ## Phase 2 — Folders with English gaps + Sinhala gap fill
 
 ### 00-glory-veiled-in-dust *(English v2–v4 missing)*
-- [ ] create EN: `00-glory-veiled-in-dust-v2.txt`
-- [ ] create EN: `00-glory-veiled-in-dust-v3.txt`
-- [ ] create EN: `00-glory-veiled-in-dust-v4.txt`
-- [ ] refine: `00-glory-veiled-in-dust-si.txt`
-- [ ] refine: `00-glory-veiled-in-dust-si-v2.txt` ← align to new EN v2
-- [ ] refine: `00-glory-veiled-in-dust-si-v3.txt` ← align to new EN v3
-- [ ] refine: `00-glory-veiled-in-dust-si-v4.txt` ← align to new EN v4
-- [ ] SKIP:   `00-glory-veiled-in-dust-si-v5.txt` ← reference, do not touch
-- [ ] refine: `00-glory-veiled-in-dust-si-v6.txt`
-- [ ] refine: `00-glory-veiled-in-dust-si-v7.txt`
+- [x] create EN: `00-glory-veiled-in-dust-v2.txt`
+- [x] create EN: `00-glory-veiled-in-dust-v3.txt`
+- [x] create EN: `00-glory-veiled-in-dust-v4.txt`
+- [x] refine: `00-glory-veiled-in-dust-si.txt`
+- [x] refine: `00-glory-veiled-in-dust-si-v2.txt` ← align to new EN v2
+- [x] refine: `00-glory-veiled-in-dust-si-v3.txt` ← align to new EN v3
+- [x] refine: `00-glory-veiled-in-dust-si-v4.txt` ← align to new EN v4
+- [x] SKIP:   `00-glory-veiled-in-dust-si-v5.txt` ← reference, do not touch
+- [x] refine: `00-glory-veiled-in-dust-si-v6.txt`
+- [x] refine: `00-glory-veiled-in-dust-si-v7.txt`
 
 ### 03-wings *(si through si-v6 already done; EN v7 exists)*
 - [ ] create SI: `03-wings-si-v7.txt` ← from `03-wings-v7.txt`
