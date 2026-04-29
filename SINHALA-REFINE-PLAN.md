@@ -69,13 +69,13 @@
 **English versions:** `.txt`, v2–v7 ✓
 
 **Sinhala — refine existing:**
-- [ ] refine: `02-a-time-for-everything-si.txt`
-- [ ] refine: `02-a-time-for-everything-si-v2.txt`
-- [ ] refine: `02-a-time-for-everything-si-v3.txt`
-- [ ] refine: `02-a-time-for-everything-si-v4.txt`
-- [ ] refine: `02-a-time-for-everything-si-v5.txt`
-- [ ] refine: `02-a-time-for-everything-si-v6.txt`
-- [ ] refine: `02-a-time-for-everything-si-v7.txt`
+- [x] refine: `02-a-time-for-everything-si.txt`
+- [x] refine: `02-a-time-for-everything-si-v2.txt`
+- [x] refine: `02-a-time-for-everything-si-v3.txt`
+- [x] refine: `02-a-time-for-everything-si-v4.txt`
+- [x] refine: `02-a-time-for-everything-si-v5.txt`
+- [x] refine: `02-a-time-for-everything-si-v6.txt`
+- [x] refine: `02-a-time-for-everything-si-v7.txt`
 
 ---
 
@@ -290,13 +290,13 @@
 - [x] refine: `01-green-pastures-si-v7.txt`
 
 ### 02-a-time-for-everything
-- [ ] refine: `02-a-time-for-everything-si.txt`
-- [ ] refine: `02-a-time-for-everything-si-v2.txt`
-- [ ] refine: `02-a-time-for-everything-si-v3.txt`
-- [ ] refine: `02-a-time-for-everything-si-v4.txt`
-- [ ] refine: `02-a-time-for-everything-si-v5.txt`
-- [ ] refine: `02-a-time-for-everything-si-v6.txt`
-- [ ] refine: `02-a-time-for-everything-si-v7.txt`
+- [x] refine: `02-a-time-for-everything-si.txt`
+- [x] refine: `02-a-time-for-everything-si-v2.txt`
+- [x] refine: `02-a-time-for-everything-si-v3.txt`
+- [x] refine: `02-a-time-for-everything-si-v4.txt`
+- [x] refine: `02-a-time-for-everything-si-v5.txt`
+- [x] refine: `02-a-time-for-everything-si-v6.txt`
+- [x] refine: `02-a-time-for-everything-si-v7.txt`
 
 ---
 
