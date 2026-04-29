@@ -1,6 +1,6 @@
 # Sinhala Literary Refine Plan
 
-**Branch:** `feature/sinhala-literary-refine`
+**Branch strategy:** `feature/sinhala-refine-<folder>` (new branch per folder)
 **Reference standard:** `lyrics/00-glory-veiled-in-dust/00-glory-veiled-in-dust-si-v5.txt`
 
 **Quality criteria (Sinhala):**
@@ -260,7 +260,7 @@
 | 05–14 (×10 folders) | 10 | 60 | 60 | 130 |
 | **Total** | **32** | **66** | **66** | **164** |
 
-**Branch:** `feature/sinhala-literary-refine`
+**Branch strategy:** `feature/sinhala-refine-<folder>` (new branch per folder)
 **Reference standard:** `lyrics/00-glory-veiled-in-dust/00-glory-veiled-in-dust-si-v5.txt`
 
 **Quality criteria (Sinhala):**
