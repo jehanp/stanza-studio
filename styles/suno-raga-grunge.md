@@ -69,6 +69,85 @@ When Suno sees `melismatic`, it interprets: *the voice should move through multi
 
 ---
 
+## The Background Arrangement Problem: Indian Instruments Drop Out During Vocals
+
+**Symptom:** The intro and instrumental breaks sound unmistakably Indian — sitar lines, tabla patterns, tanpura humming — but the moment the vocals enter, the backing reverts to a standard Western guitar + kit texture. The Indian elements reappear only in the gaps between sung lines.
+
+**Why it happens:** Suno treats named instruments as *color* — it schedules them as fills and solo features rather than as a persistent rhythmic or harmonic bed. When the vocalist enters, Suno clears space by defaulting to its most reliable backing: a Western drum kit and rhythm guitar. Indian classical elements get pushed to the margins.
+
+**The fix:** You must change how instruments are *framed* in your prompt — not just which instruments are listed. Tags need to specify the *arrangement role* of each instrument, not just its name.
+
+### Strategy 1 — Replace, Don't Add
+
+Instead of listing tabla alongside a Western drum kit, eliminate the kit entirely. When Suno has no drum kit to fall back on, it has to use the Indian drum as the rhythmic bed — including under vocals.
+
+| Instead of | Use |
+|------------|-----|
+| `tabla, drum kit` | `no drum kit, tabla as main drum` |
+| `mridanga, drums` | `mridanga groove, no snare or hi-hat` |
+| `Indian percussion, percussion` | `tabla rhythm throughout, no Western kit` |
+
+### Strategy 2 — Drone as a Persistent Anchor
+
+`tanpura drone` is inherently continuous — it holds a pitch, not a melodic phrase. It is the easiest Indian element to keep alive under singing because it doesn't imply a solo turn. Pair it with explicit persistence tags:
+
+```
+tanpura drone throughout, persistent tanpura, continuous drone
+```
+
+This signals that the drone is a *texture layer*, not an intro feature.
+
+### Strategy 3 — Countermelody Framing
+
+A countermelody *runs alongside* the vocals. A named solo instrument *takes turns* with the singer. The framing changes Suno's scheduling:
+
+| Instead of | Use |
+|------------|-----|
+| `sitar` | `sitar countermelody` or `sitar answering the voice` |
+| `sarangi` | `sarangi countermelody` |
+| `sitar, vocals` | `call and response sitar` |
+
+`call and response sitar` is especially effective — it frames the instrument as part of the vocal exchange, not a separate solo that plays when the voice stops.
+
+### Strategy 4 — Explicit Texture Density Tags
+
+These tags discourage Suno from stripping back to a sparse backing for vocal sections:
+
+```
+dense layered arrangement, full arrangement throughout, continuous texture, no arrangement dropout
+```
+
+### Strategy 5 — Rhythmic Bed Framing
+
+Frame Indian drums explicitly as the groove foundation — not just a named instrument:
+
+```
+tabla rhythm bed, tabla groove throughout, mridanga groove throughout, continuous tabla groove
+```
+
+Framing the drum as a *bed* or *groove* signals it is the floor of the arrangement, not a featured element that can be set aside.
+
+### Revised Prompt — Background-Focused
+
+**Basic (instruments named, no role framing):**
+```
+raga bhairavi grunge, tabla, sitar, tanpura, distorted electric guitar, Hindustani male vocalist, dark, raw
+```
+
+**Revised — with arrangement role framing:**
+```
+raga bhairavi grunge, no drum kit, tabla as main drum, continuous tabla groove, sitar countermelody, call and response sitar, tanpura drone throughout, persistent tanpura, distorted electric guitar, Hindustani male vocalist, dense layered arrangement, dark, devotional, raw
+```
+
+Key differences:
+- `no drum kit` — forces Indian drum into the rhythmic bed role
+- `tabla as main drum` + `continuous tabla groove` — names the drum and its arrangement role
+- `sitar countermelody` + `call and response sitar` — keeps the instrument active *during* vocals, not only in gaps
+- `tanpura drone throughout` + `persistent tanpura` — anchors the drone as a continuous texture layer
+- `dense layered arrangement` — discourages arrangement dropout when the voice enters
+
+---
+
 ## Core Concept
 
 Raga brings: **modal scales, microtonal bends, drone underpinning, slow-building emotional weight, spiritual gravity**
