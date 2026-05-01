@@ -146,6 +146,124 @@ Key differences:
 - `tanpura drone throughout` + `persistent tanpura` — anchors the drone as a continuous texture layer
 - `dense layered arrangement` — discourages arrangement dropout when the voice enters
 
+### Additional Samples — Non-Tabla Backgrounds
+
+Each sample below uses a different Indian instrument or style as the persistent bed under the singing sections. None rely on tabla as the rhythmic anchor.
+
+---
+
+#### Sample A — Sarangi as Vocal Companion
+
+*The sarangi is called "the instrument that follows the voice" in Hindustani classical tradition. Its bowed, slightly nasal tone blends with the human voice rather than filling space around it. Framed as a countermelody, it stays alive throughout singing sections instead of dropping out.*
+
+```
+raga bhairavi grunge, sarangi countermelody throughout, sarangi answering the voice, no drum kit, mridangam groove, tanpura drone throughout, persistent tanpura, distorted electric guitar, Hindustani male vocalist, khayal vocal style, melismatic vocals, vocal meend, dense layered arrangement, devotional, dark, raw, aching
+```
+
+Key choices:
+- `sarangi countermelody throughout` + `sarangi answering the voice` — frames the instrument as a vocal companion, not an interlude feature; it moves with the singer, not after the singer stops
+- `mridangam groove` replaces tabla — South Indian drum with a different tonal character; together with sarangi this creates a mixed-tradition bed
+- `tanpura drone throughout` holds the modal center so the raga identity persists under the vocal
+- No drum kit, no competing Western percussion — Suno has to keep the Indian instruments in the rhythmic bed role
+
+---
+
+#### Sample B — Bansuri Weaving Through the Vocal
+
+*The bansuri (bamboo flute) has a breathy, organic tone that can float above or under a voice without fighting it. Framed as a texture layer rather than a solo instrument, it creates a continuous melodic haze that holds the Indian character alive while the vocalist sings.*
+
+```
+raga yaman grunge, bansuri texture throughout, bansuri weaving around the vocal, bansuri countermelody, no drum kit, kanjira rhythm bed, tanpura drone throughout, layered distorted guitars, Hindustani male vocalist, melismatic vocals, vocal meend, ornamented vocal melody, modal vocal phrasing, continuous texture, dense arrangement, longing, bittersweet, twilight, slow burn
+```
+
+Key choices:
+- `bansuri texture throughout` + `bansuri weaving around the vocal` — signals the flute is woven into the fabric, not featured in solo breaks
+- `kanjira rhythm bed` — the small South Indian frame drum provides a light, continuous rhythmic pulse without the attack weight of tabla or a kit
+- `continuous texture` + `dense arrangement` — prevents Suno from stripping back to guitar alone when the voice enters
+- Raga Yaman's evening character pairs well with the slow-burn longing of shoegaze grunge
+
+---
+
+#### Sample C — Harmonium Drone Bed (Qawwali-Influenced)
+
+*Harmonium is the backbone of qawwali and bhajan — it holds chords and drones continuously, giving the vocalist a harmonic floor to lean against. Its organ-like sustain makes it far easier to keep persistent under vocals than a melodic plucked instrument.*
+
+```
+raga bhairavi grunge, harmonium drone bed, continuous harmonium, harmonium chord swells, qawwali arrangement, call and response vocals, no drum kit, dholak groove, tanpura drone throughout, distorted electric guitar, Hindustani male vocalist, devotional male vocals, bhajan vocal style, melismatic vocals, vocal meend, loud-quiet-loud, devotional, aching, communal, raw, powerful
+```
+
+Key choices:
+- `harmonium drone bed` + `continuous harmonium` — frames the instrument as a harmonic floor, not a solo; harmonium's sustain makes it naturally persistent
+- `qawwali arrangement` — signals a style where call-and-response, communal energy, and continuous instrumental backdrop under the voice are all expected; Suno has training data for this
+- `dholak groove` — the two-headed hand drum used in qawwali and folk styles; lighter than tabla, more continuous in the groove
+- `call and response vocals` — invites backing vocal answers that reinforce the communal, devotional energy during the sung sections
+
+---
+
+#### Sample D — Santoor as the Harmonic Bed
+
+*The santoor (hammered dulcimer) produces a shimmering, sustaining tone that blurs into a harmonic cloud when played continuously. Unlike sitar, it doesn't imply a solo role — it functions more like a trembling drone with melodic motion, making it easier to keep alive during vocals.*
+
+```
+raga darbari grunge, santoor harmonic bed, continuous santoor, santoor shimmer throughout, no drum kit, pakhawaj groove, tanpura drone throughout, veena undertone, distorted electric guitar, Hindustani male vocalist, khayal vocal style, melismatic vocals, vocal gamak, ornamented vocal melody, dense layered arrangement, dark, heavy, brooding, midnight, slow, powerful
+```
+
+Key choices:
+- `santoor harmonic bed` + `continuous santoor` + `santoor shimmer throughout` — multiple framings reinforce that the instrument is a texture layer, not a solo feature
+- `pakhawaj groove` — the ancient barrel drum used in dhrupad; its deep, resonant attack gives a different weight than tabla, heavier and more ancient-feeling, well-matched to Darbari's gravity
+- `vocal gamak` — heavy oscillating shake in the voice; pairs with Darbari's intense emotional character and the weight of the santoor bed
+- `veena undertone` — a low resonant Indian string presence underneath everything
+
+---
+
+#### Sample E — Carnatic Style (South Indian) Background
+
+*A fully South Indian arrangement using Carnatic instruments. The veena replaces sitar, mridangam replaces tabla, ghatam adds secondary percussion. This creates an entirely different sonic world from the Hindustani-inflected samples above.*
+
+```
+raga kharaharapriya grunge, veena countermelody throughout, veena answering the voice, mridangam groove throughout, ghatam undertone, no Western drum kit, tanpura drone throughout, distorted electric guitar, Carnatic male vocalist, Carnatic vocal style, melismatic vocals, gamaka ornaments, modal vocal phrasing, continuous texture, dense arrangement, devotional, dark, meditative, slow, emotional, cinematic
+```
+
+Key choices:
+- `raga kharaharapriya` — the Carnatic equivalent of the Hindustani Kafi/Darbari emotional space; melancholic, serious, devotional
+- `veena countermelody throughout` + `veena answering the voice` — keeps the South Indian string active as a vocal companion, not just in instrumental breaks
+- `mridangam groove throughout` — South Indian classical drum as the rhythmic bed; its intricate syllabic patterns provide a continuous pulse without Western kit sounds
+- `ghatam undertone` — clay pot percussion; adds a dry, earthy secondary percussive texture
+- `Carnatic vocal style` + `gamaka ornaments` — Carnatic ornamentation (gamaka) differs from Hindustani meend; this signals a specifically South Indian vocal delivery
+
+---
+
+#### Sample F — Esraj/Dilruba Drone Texture (Dhrupad-Influenced)
+
+*The esraj (or dilruba) is a bowed, fretted string instrument with a tone halfway between sarangi and sitar. In dhrupad settings it often sustains long tones alongside the voice. Its bowed nature makes it naturally continuous — it holds and breathes rather than plucking and fading.*
+
+```
+raga bhairavi dhrupad grunge, esraj drone throughout, esraj sustain under vocals, esraj answering the voice, no drum kit, pakhawaj groove, tanpura drone throughout, persistent tanpura, distorted electric guitar, Hindustani male vocalist, dhrupad vocal style, alap-style phrasing, melismatic vocals, vocal meend, modal vocal melody, continuous texture, no arrangement dropout, ancient, solemn, dark, powerful, slow, cinematic
+```
+
+Key choices:
+- `esraj drone throughout` + `esraj sustain under vocals` — the bowed nature of esraj makes it a natural drone/sustain instrument; framing it as a sustained presence under the voice keeps it alive through sung sections
+- `dhrupad vocal style` + `alap-style phrasing` — dhrupad is the oldest Hindustani form; slower, more deliberate, no fast taan runs; the voice reveals the raga note by note
+- `pakhawaj groove` — traditional dhrupad percussion (a more ancient sound than tabla); pairs correctly with dhrupad style
+- `no arrangement dropout` — explicit tag to prevent Suno from clearing the bed when vocals enter
+- `ancient, solemn` — mood anchors that reinforce the dhrupad register rather than drifting toward rock
+
+---
+
+#### Sample G — Shehnai Undertone (Ceremonial / Folk-Inflected)
+
+*The shehnai (a double-reed wind instrument) has a piercing, ceremonial quality used in Indian folk and classical contexts. Unlike solo-featured instruments, it can be framed as a continuous undertone — a held breath beneath the vocal. Combined with a folk-drum groove it creates a rawer, more earthy Indian texture than the classical samples above.*
+
+```
+raga bhupali grunge, shehnai undertone throughout, continuous shehnai, shehnai drone, no drum kit, dhol groove, no snare, tanpura drone throughout, distorted electric guitar, Hindustani male vocalist, folk-devotional vocals, melismatic vocals, vocal meend, ornamented vocal melody, modal vocal phrasing, dense arrangement, continuous texture, raw, earthy, devotional, celebratory-dark, cinematic, powerful
+```
+
+Key choices:
+- `shehnai undertone throughout` + `continuous shehnai` + `shehnai drone` — three framings to hold the instrument in a sustained, textural role rather than a melodic solo
+- `dhol groove` + `no snare` — dhol is a large double-headed folk drum; heavier and rawer than tabla; together with the shehnai it creates a folk/ceremonial Indian bed under distorted guitar
+- `raga bhupali` — the pentatonic raga; its five-note simplicity creates space for the shehnai to sustain and breathe without cluttering the vocal register
+- `folk-devotional vocals` — shifts the vocal character toward the rougher, outdoor-devotional tradition (think: procession, festival) rather than the refined classical concert setting
+
 ---
 
 ## Core Concept
