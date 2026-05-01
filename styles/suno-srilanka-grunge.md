@@ -51,6 +51,85 @@ Key changes:
 
 ---
 
+## The Background Arrangement Problem: Sri Lankan Instruments Drop Out During Vocals
+
+**Symptom:** The intro and interludes sound unmistakably Sri Lankan, but as soon as the vocals start, the backing reverts to a standard Western guitar + kit texture. Sri Lankan instruments reappear only in the gaps between sung lines.
+
+**Why it happens:** Suno treats named instruments as *color* — it schedules them as fills and solo features rather than as a persistent rhythmic or harmonic bed. When the vocalist enters, Suno clears space by defaulting to its most reliable backing: a Western drum kit and rhythm guitar. Sri Lankan elements get pushed to the margins.
+
+**The fix:** You must change how instruments are *framed* in your prompt — not just which instruments are listed. Tags need to specify the *arrangement role* of each instrument, not just its name.
+
+### Strategy 1 — Replace, Don't Add
+
+Instead of listing Sri Lankan drums alongside a Western kit, eliminate the kit entirely. When Suno has no drum kit to fall back on, it has to use the Sri Lankan drum as the rhythmic bed — including under vocals.
+
+| Instead of | Use |
+|------------|-----|
+| `gata bera, drum kit` | `no drum kit, gata bera as main drum` |
+| `yak bera, drums` | `yak bera groove, no snare or hi-hat` |
+| `kandyan drumming, percussion` | `kandyan rhythm throughout, no Western kit` |
+
+### Strategy 2 — Drone as a Persistent Anchor
+
+`tanpura drone` is inherently continuous — it holds a pitch, not a melodic phrase. It is the easiest Sri Lankan element to keep alive under singing because it doesn't imply a solo turn. Pair it with explicit persistence tags:
+
+```
+tanpura drone throughout, persistent tanpura, continuous drone
+```
+
+This signals that the drone is a *texture layer*, not an intro feature.
+
+### Strategy 3 — Countermelody Framing
+
+A countermelody *runs alongside* the vocals. A named solo instrument *takes turns* with the singer. The framing changes Suno's scheduling:
+
+| Instead of | Use |
+|------------|-----|
+| `horanewa` | `horanewa countermelody` or `horanewa answering the voice` |
+| `dotara` | `dotara countermelody` |
+| `horanewa, vocals` | `call and response horanewa` |
+
+`call and response horanewa` is especially effective — it frames the instrument as part of the vocal exchange, not a separate solo that plays when the voice stops.
+
+### Strategy 4 — Explicit Texture Density Tags
+
+These tags discourage Suno from stripping back to a sparse backing for vocal sections:
+
+```
+dense layered arrangement, full arrangement throughout, continuous texture, no arrangement dropout
+```
+
+### Strategy 5 — Rhythmic Bed Framing
+
+Frame Sri Lankan drums explicitly as the groove foundation — not just a named instrument:
+
+```
+gata bera rhythm bed, yak bera groove throughout, kandyan rhythm throughout, continuous gata bera groove
+```
+
+Framing the drum as a *bed* or *groove* signals it is the floor of the arrangement, not a featured element that can be set aside.
+
+### Revised Prompt — Background-Focused
+
+**Basic (instruments named, no role framing):**
+```
+Sri Lankan grunge, gata bera, horanewa, tanpura, distorted electric guitar, Sinhala male vocalist, dark, raw
+```
+
+**Revised — with arrangement role framing:**
+```
+Sri Lankan grunge, no drum kit, gata bera as main drum, continuous gata bera groove, horanewa countermelody, call and response horanewa, tanpura drone throughout, persistent tanpura, distorted electric guitar, Sinhala male vocalist, dense layered arrangement, dark, ceremonial, raw
+```
+
+Key differences:
+- `no drum kit` — forces Sri Lankan drum into the rhythmic bed role
+- `gata bera as main drum` + `continuous gata bera groove` — names the drum and its arrangement role
+- `horanewa countermelody` + `call and response horanewa` — keeps the instrument active *during* vocals, not only in gaps
+- `tanpura drone throughout` + `persistent tanpura` — anchors the drone as a continuous texture layer
+- `dense layered arrangement` — discourages arrangement dropout when the voice enters
+
+---
+
 ## Sri Lankan Musical Traditions: A Reference
 
 ### Key Instruments
