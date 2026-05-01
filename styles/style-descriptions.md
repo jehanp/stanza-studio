@@ -150,4 +150,103 @@ A **raga** is not a scale — it is a complete melodic personality. It defines w
 
 ---
 
+## Dark Folk
+
+**Dark folk** is an acoustic-rooted genre that blends traditional folk instrumentation with heavy lyrical themes — mortality, grief, spiritual longing, mythology, and the shadow side of human experience. It strips away production gloss and lets discomfort breathe.
+
+### Core Characteristics
+
+- Acoustic guitar (fingerpicked, often sparse and deliberate)
+- Minor keys and modal scales — Dorian and Aeolian are common
+- **Drone** — a held or repeated low note underneath melody, creating unresolved tension
+- Tempo is slow to mid-tempo; space and silence are used intentionally
+- Vocals are often close-miked, intimate, sometimes raw or wavering
+- Lyrics lean toward allegory, nature imagery, and spiritual weight
+- Minimal production — room sound, ambient breath, natural decay
+
+### Mood and Feel
+
+- Somber but not nihilistic — grief as reverence
+- Ancient-feeling — timeless rather than contemporary
+- Close, like a story told by firelight
+- Tension that doesn't always resolve; endings can feel open or unfinished
+
+### Key Artists
+
+- **Nick Drake** — Sparse, introspective, luminous even in darkness
+- **Current 93** — Experimental edge, apocalyptic imagery, biblical undertones
+- **Wovenhand** — Post-punk influence, devotional intensity, desert spirituality
+- **Timber Timbre** — Gothic atmosphere, warm and unsettling at once
+- **Alasdair Roberts** — Scottish traditional influence, modal and austere
+
+### Instruments
+
+| Instrument | Role |
+|------------|------|
+| **Acoustic guitar** | Primary melodic and rhythmic voice |
+| **Cello / viola** | Adds mournful depth beneath vocals |
+| **Banjo** | Clawhammer style for droning, cyclical feel |
+| **Fiddle** | Often melancholic; more wailing than bright |
+| **Harmonium / pump organ** | Drone and hymn-like underpinning |
+| **Upright bass** | Low, resonant, restrained |
+
+### Lyrical Style
+
+- Imagery over statement — the feeling is buried in metaphor
+- Nature as symbol (mountains, rivers, dust, seasons)
+- Mortality framed through the natural world
+- Spiritual crisis or surrender, rarely resolution
+- Short, dense lines carrying compressed weight
+
+---
+
+## Americana
+
+**Americana** is a broad American roots genre that draws from country, folk, blues, gospel, and rock without fully committing to any one of them. It values authenticity, storytelling, and emotional honesty over commercial polish.
+
+### Core Characteristics
+
+- Acoustic and electric guitars, often in the same arrangement
+- Pedal steel guitar — the defining sonic signature of the genre
+- Fiddle, mandolin, banjo, upright or electric bass
+- 4/4 time; backbeat present but unhurried
+- Production is warm and organic — analogue-sounding, room-alive
+- Vocals are expressive and plain-spoken; no vocal gymnastics
+
+### Mood and Feel
+
+- Earthy and human — nothing is too perfect
+- Road-worn, lived-in, nostalgic without being sentimental
+- Stories of loss, work, home, faith, and the land
+- Wide open spaces — sonically and emotionally
+- Can swing from tender to raw, quiet to full-band
+
+### Key Artists
+
+- **Gillian Welch** — Stark, devastating folk-country. Minimal arrangement, maximal weight.
+- **Townes Van Zandt** — Heartbroken storytelling, bluesy fingerpicking, poetic fatalism
+- **Jason Isbell** — Literary lyrics, rock energy under country bones
+- **Nanci Griffith** — Warm, narrative, acoustic-forward
+- **Emmylou Harris** — Voice as instrument, deeply rooted in tradition
+
+### Key Sounds
+
+| Element | Description |
+|---------|-------------|
+| **Pedal steel** | A lap-played electric instrument; signature "crying" or "sighing" glides |
+| **Fingerpicking** | Travis-style or alternating bass; keeps rhythm and melody together |
+| **Dobro / resonator guitar** | Metallic, mournful, Delta blues ancestry |
+| **Lap steel** | Cousin to pedal steel; simpler, more droning |
+| **Hammond B3 / piano** | When present, adds warmth and gospel roots |
+
+### Lyrical Style
+
+- Plain speech elevated by rhythm and image
+- Concrete detail — specific places, objects, names
+- Storyline and character — often a third-person narrative
+- Faith appears without preaching; doubt appears without despair
+- The chorus arrives like a truth the verse was circling toward
+
+---
+
 *Add more styles and terms below as you encounter them.*
