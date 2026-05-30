@@ -1,0 +1,73 @@
+# The Loud Silence
+
+**Song Number:** 17
+**Target Date:** June 22, 2026
+**Scripture Source:** Zephaniah 3:17 _(personal reference — not published)_
+**Genre:** Ambient Dream Pop
+
+---
+
+### Verse 1
+
+The radio is sputtering with news,
+and telling us what we are bound to lose.
+The sirens screaming down the city street,
+are louder than the pulsing of our feet.
+
+### Pre-Chorus
+
+But something heavy settles on the floor,
+and places both its hands upon the door.
+The mighty shadow stands inside the space,
+and wipes the sweat from off my fragile face.
+
+### Chorus
+
+The static in the wire begins to fade,
+a quiet circle in the noise is made.
+The hum of love is singing in the dark,
+where fear had tried to leave a burning mark.
+
+### Verse 2
+
+The midnight cold was pacing in my chest,
+and wouldn't let my heavy eyelids rest.
+But now my breathing matches what He sings,
+like something flying on a pair of wings.
+
+### Chorus
+
+The static in the wire begins to fade,
+a quiet circle in the noise is made.
+The hum of love is singing in the dark,
+where fear had tried to leave a burning mark.
+
+### Bridge
+
+The voice is rising from the floor below,
+with words we didn't think we'd ever know.
+It shakes the glass and rattles on the wall,
+like thunder that is waiting for a fall.
+
+### Final Chorus
+
+The static in the wire has run away,
+the silent night is turning into day.
+The sovereign song is shouting in the light,
+and driving back the remnants of the night.
+
+### Outro
+
+He sings above the panic and the rust,
+and lifts us from the ashes of our dust.
+
+---
+
+## Imagery Notes
+
+| Scripture Image | Lyric Translation |
+|---|---|
+| "The Lord your God is in your midst" | "The mighty shadow stands inside the space" |
+| "A mighty warrior who saves" | "something heavy settles on the floor, and places both its hands upon the door" (protection) |
+| "He will quiet you by his love" | "The static in the wire begins to fade, a quiet circle in the noise is made. The hum of love..." |
+| "He will exult over you with loud singing" | "The sovereign song is shouting in the light" / "He sings above the panic and the rust" |
