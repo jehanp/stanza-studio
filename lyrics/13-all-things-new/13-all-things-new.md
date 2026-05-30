@@ -9,57 +9,57 @@
 
 ### Verse 1
 
-I've been walking through the ashes of the old world,
-carrying the photographs of everything that burned.
-The grief was like a city I kept circling,
-every street a lesson I had already learned.
+I've been walking through the ashes of the first world,
+carrying photographs of everything that burned.
+My grief became a city I kept circling,
+each street returning lessons I had learned.
 
-But this morning something shifted in the atmosphere —
-the skyline isn't smoke, it's something clear.
-I see towers I don't recognise, a river running bright,
-and the ground beneath my feet is warm with light.
+But this morning something changed inside the air,
+the skyline is not smoke; it's open, clean, and clear.
+I see towers I don't know, a river lit and bright,
+and even dust beneath my feet now answers into light.
 
 ### Chorus
 
 All things new, all things new —
-the tears are drying on a cheek I barely knew.
-No more death, no more aching through the night,
-the old world packed its bags and caught an earlier flight.
+tears are drying on a face I barely knew.
+No more death, no more aching in the night,
+the old world lost its hold and vanished out of sight.
 All things new — I'm walking into all things new.
 
 ### Verse 2
 
-There's a home here I have never seen but somehow know,
-like a melody I've hummed since I was young.
-The one who holds the keys flung every door wide open
-and the welcome wasn't whispered — it was sung.
+There's a home I've never seen and still I know,
+like an ancient melody I used to hum below.
+The one who holds the keys threw every doorway wide,
+the welcome wasn't whispered - it was sung from every side.
 
-I heard a voice — not from the sky but from beside me —
-it said, "I'm making everything again, don't be afraid.
-The pain you carried here? I took it at the threshold.
-You can set the suitcase down — the debt is paid."
+I heard a voice, not distant sky but near my breath,
+it said, "I'm making everything again; don't fear the death.
+The pain you carried in? I met it at the gate.
+Set down the case you've dragged for years - your debt is paid."
 
 ### Chorus
 
 All things new, all things new —
-the mourning's over, and the morning's breaking through.
+mourning is over and the morning's breaking through.
 No more crying, no more dying in the dark,
-the former things have faded like a candle from a spark.
+the former things dissolve like wax consumed by spark.
 All things new — I'm stepping into all things new.
 
 ### Bridge
 
-Write it down — these words are faithful, these words are true:
-the one who sat upon the throne said, "Look — I'm making all things new."
-And the sea of glass reflected every scar,
-and every scar was glowing like a star.
+Write it down - these words are faithful, these words are true:
+the one upon the throne said, "Look, I make all things new."
+The glassy sea reflected every scar,
+and every scar turned lantern, turned to star.
 
 ### Final Chorus
 
 All things new, all things new —
-every wound is closing, every broken thing made through.
-No more shadow, no more valley, no more night —
-the city's lit from somewhere and it doesn't need a light.
+every wound is closing, every fracture carried through.
+No more shadow, no more valley, no more night,
+the city's lit by Presence and it does not need a light.
 All things new — I have everything, I have everything.
 
 ### Outro

@@ -9,72 +9,72 @@
 
 ### Verse 1
 
-It wasn't fireworks — it was Tuesday morning coffee,
-the way you learned my silence like a second language.
-You were patient when I wasn't worth the patience,
-kind when I was cardboard, when I gave you damage.
+It wasn't fireworks - it was Tuesday coffee steam,
+the way you learned my silence like a faithful second skin.
+You stayed patient when I wasn't worth the patience,
+stayed kind when I was splintered, sharp, and full of damage.
 
-You never kept a list of what I owed you,
-never threw the past back in my face.
-When the neighbours heard us through the kitchen walls,
-you were the one who lowered every raised voice into grace.
+You never kept accounts of what I owed,
+never used my old confessions as a stone.
+When kitchen walls made witnesses of war,
+you lowered every shouting word and closed the door.
 
 ### Pre-Chorus
 
-Not a parade, not a movie, not a monument —
-just a quiet daily choice that never spent.
+Not a parade, not a headline, not a monument -
+just daily covenant that never came and went.
 
 ### Chorus
 
 This is what remains when the fire cools —
 not the spark, not the rush, not the beautiful.
-It's the bearing and believing, it's the standing in the rain,
-it's the holding on to hoping when there's nothing left to gain.
+It's the bearing and believing, standing in the rain,
+holding on to hoping when there's nothing left to gain.
 This is what remains.
 
 ### Verse 2
 
-You didn't boast when you were right — and you were right a lot —
-you didn't envy what the others wore.
-You made the small things big and let the big things breathe,
-and you forgave the parts of me I couldn't stand before.
+You never bragged when you were right - and you were right most nights,
+you never envied borrowed shine or borrowed lights.
+You made the small things holy, let the heavy breathe,
+forgave the parts of me that made me want to leave.
 
-You weren't easily provoked, but God, I tried —
-slammed the doors on every metaphor for love.
-And still you didn't keep the score beneath the mattress —
-you just smoothed the sheets and let it go above.
+You weren't quick to anger, though I pulled that wire,
+slammed every door and called the ruin fire.
+Still you never hid a score beneath the bed,
+you smoothed the wrinkled sheets and blessed me instead.
 
 ### Pre-Chorus
 
-Not a trophy, not a title, not a monument —
-just a faithfulness that never learned to quit.
+Not a trophy, not a title, not applause from men -
+just a faithfulness that starts again, again.
 
 ### Chorus
 
 This is what remains when the fire cools —
 not the spark, not the rush, not the beautiful.
-It's the bearing and believing, it's the standing in the rain,
-it's the hoping and enduring past the pleasure and the pain.
+It's the bearing and believing, standing in the rain,
+hoping and enduring past the pleasure and the pain.
 This is what remains.
 
 ### Bridge
 
-When I was young, I spoke in feelings,
-thought in feelings, loved in feelings too.
-But I grew up and put away the tinsel,
-and what was left was this — was you.
+When I was young, I spoke like weather,
+loved like weather, changed like weather too.
+Then I grew up, put childish glitter down,
+and what outlived the glitter was you.
 
-And now these three — they stay, they stay:
-the trusting, and the waiting, and the love that doesn't fade.
-But the greatest one? The greatest one
-is the one that never walked away.
+And now these three remain, remain:
+the trusting and the waiting and the love through loss and gain.
+But greatest still, above the ache,
+is love that stays and does not break.
 
 ### Final Chorus
 
 This is what remains when the fire cools —
 not the flash, not the fall, not the fairy tale.
-It's the patient, steady burning on the coldest night,
-it's the kind, unbroken promise that outlasts the light.
+It's patient, steady burning on the coldest night,
+kind, unbroken promise outlasting borrowed light.
 This is what remains —
 love is what remains.
 
