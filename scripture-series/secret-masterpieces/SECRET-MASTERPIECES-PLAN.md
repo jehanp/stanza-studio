@@ -1,6 +1,6 @@
 # Secret Masterpieces — Lyric Plan
 
-> A suite of 15 new songs drawn from lesser-known, deeply poetic scriptures — each lyric built on consecutive end-rhymes (AABB) and layered with hidden spiritual meaning.
+> A suite of 25 new songs drawn from lesser-known, deeply poetic scriptures — each lyric built on consecutive end-rhymes (AABB) and layered with hidden spiritual meaning.
 
 ---
 
@@ -251,6 +251,146 @@ These songs are rooted in scriptures that rarely appear in congregational worshi
 
 ---
 
+### Song 31 — The Scarlet Thread
+
+| Detail | |
+|---|---|
+| **Scripture** | **Joshua 2:18 / Genesis 38:28** |
+| **Key Verses** | _"Bind this scarlet cord in the window through which you let us down."_ |
+| **Core Theme** | A single fragile lifeline of grace running through the chaos — rescue marked by a thin, red signal |
+| **Subtle Lyric Angle** | Rahab is a traitor and an outcast, yet the rescue plan hinges on a ribbon — a scarlet cord hung in a window. The lyric traces the idea of an unbroken red thread from the beginning of time, connecting every story of unmerited rescue. The thread is impossibly thin but impossibly strong. It runs through the wreckage of every collapse, every siege, every age — always the same colour, always the same material. The city falls, but the one house with the thread remains standing. |
+| **Suggested Genre** | **Indie Americana / Folk Noir** — driving acoustic guitar with minor key fingerpicking, subtle harmonica, warm but haunted vocal delivery |
+| **Suno Tags** | `indie americana, folk noir, acoustic, minor key, harmonica, haunted, driving` |
+| **Status** | 🔲 Planned |
+
+---
+
+### Song 32 — The Locked Garden
+
+| Detail | |
+|---|---|
+| **Scripture** | **Song of Solomon 4:12** |
+| **Key Verses** | _"A garden locked is my sister, my bride, a spring locked, a fountain sealed."_ |
+| **Core Theme** | Sacred intimacy that cannot be invaded, bought, or stolen — a protected interior space reserved for one |
+| **Subtle Lyric Angle** | In a world that commodifies every private thing — feelings, bodies, vulnerabilities — the lyric is about something that remains locked. Not out of fear, but out of value. A garden that blooms for one. A fountain that pours for one. The metaphor extends to any sacred space: the deepest self, the truest vulnerability. The keeper is the only one with access — and they enter not by breaking in, but by invitation. The marketplace is contrasted against the locked enclosure. |
+| **Suggested Genre** | **Trip-Hop / Downtempo Electronic** — deep bass, vinyl crackle, muted beats, breathy sensual vocal, trip-hop atmospherics |
+| **Suno Tags** | `trip-hop, downtempo, electronic, deep bass, breathy vocals, atmospheric, moody` |
+| **Status** | 🔲 Planned |
+
+---
+
+### Song 33 — The Fourth Watch
+
+| Detail | |
+|---|---|
+| **Scripture** | **Mark 6:48-50** |
+| **Key Verses** | _"About the fourth watch of the night he came to them, walking on the sea… 'Take heart; it is I. Do not be afraid.'"_ |
+| **Core Theme** | Help that arrives at the very last possible moment — when all human effort has been exhausted |
+| **Subtle Lyric Angle** | The disciples rowed all night against the wind. The fourth watch is roughly 3-6 AM, the absolute dead of night. Jesus could have come at any point, but He waited until they had nothing left. The lyric explores the agony of unanswered effort — rowing against the current with no progress — and the shock of something supernatural showing up precisely when all human capacity has been spent. The figure on the water is initially terrifying, mistaken for a ghost. The rescue doesn't look like rescue at first. |
+| **Suggested Genre** | **Post-Punk Revival / Atmospheric Rock** — angular guitars, driving bass, expansive reverb, tension-and-release dynamics, urgent baritone vocal |
+| **Suno Tags** | `post-punk, atmospheric rock, angular guitar, driving bass, reverb, urgent, tension` |
+| **Status** | 🔲 Planned |
+
+---
+
+### Song 34 — The Threshing Floor
+
+| Detail | |
+|---|---|
+| **Scripture** | **Ruth 3:6-9** |
+| **Key Verses** | _"She went down to the threshing floor… She came softly and uncovered his feet and lay down… 'Spread your wings over your servant, for you are a redeemer.'"_ |
+| **Core Theme** | Vulnerability as the doorway to belonging — the terrifying act of uncovering yourself completely |
+| **Subtle Lyric Angle** | Ruth's act is astonishing: a foreign widow with no status walks alone to a man's threshing floor at midnight, uncovers his feet, and asks to be claimed. Maximum vulnerability with no guarantee of acceptance. The lyric honours the risk of showing yourself fully — without pretense, without title — and discovering that the one you approached has already decided in your favour. The nearer kinsman who refuses adds texture: not everyone is willing to pay the cost. But the true redeemer seals the covenant publicly. |
+| **Suggested Genre** | **Acoustic Soul / Neo-Folk** — warm fingerstyle guitar, soft Rhodes piano, intimate alto vocal, sparse percussion with brush snare |
+| **Suno Tags** | `acoustic soul, neo-folk, fingerstyle, Rhodes, intimate, alto, brush percussion` |
+| **Status** | 🔲 Planned |
+
+---
+
+### Song 35 — The Salt Covenant
+
+| Detail | |
+|---|---|
+| **Scripture** | **2 Chronicles 13:5 / Numbers 18:19** |
+| **Key Verses** | _"Do you not know that the LORD, the God of Israel, gave the kingship over Israel forever to David… by a covenant of salt?"_ |
+| **Core Theme** | Promises that cannot decay, dissolve, or be revoked — an indestructible bond in a world of broken contracts |
+| **Subtle Lyric Angle** | In the ancient Near East, sharing salt sealed an unbreakable covenant because salt does not rot, corrode, or decompose. The lyric contrasts the modern world's disposable promises — contracts with escape clauses, vows made with fingers crossed, relationships abandoned when convenient — against a bond that has a mineral permanence. The "salt" is presented as a mysterious preservative baked into the foundation of a commitment, something chemical that outlasts every attempt to dissolve it. |
+| **Suggested Genre** | **Industrial Folk / Dark Electronic** — heavy analog synths, tribal percussion, metallic textures, baritone vocal with processed harmonics |
+| **Suno Tags** | `industrial folk, dark electronic, analog synth, tribal percussion, metallic, processed` |
+| **Status** | 🔲 Planned |
+
+---
+
+### Song 36 — The Refiner's Flame
+
+| Detail | |
+|---|---|
+| **Scripture** | **Malachi 3:2-3** |
+| **Key Verses** | _"But who can endure the day of his coming?... For he is like a refiner's fire… He will sit as a refiner and purifier of silver."_ |
+| **Core Theme** | The burning away of everything false to reveal what was always underneath — pain as purification |
+| **Subtle Lyric Angle** | A silversmith sits beside the crucible, watching molten metal for hours, never leaving. He knows the silver is pure when he can see his own reflection in it. The speaker is in intense heat and assumes it's destruction, but gradually realises the fire is surgical, not vengeful. It's removing the dross (impurities, pretense, cheap additions) until something authentic appears. The refiner doesn't walk away. He watches. He waits. He pulls the metal out at the exact right moment — when his face appears in the surface. |
+| **Suggested Genre** | **Alternative Metal / Prog-Metal Ballad** — heavy distorted riffs alternating with clean arpeggios, dynamic shifts, powerful vocal delivery building to cathartic release |
+| **Suno Tags** | `alternative metal, prog-metal ballad, heavy riffs, clean arpeggios, dynamic, cathartic` |
+| **Status** | 🔲 Planned |
+
+---
+
+### Song 37 — The Watchman's Tower
+
+| Detail | |
+|---|---|
+| **Scripture** | **Habakkuk 2:1-3** |
+| **Key Verses** | _"I will take my stand at my watchpost and station myself on the tower… For still the vision awaits its appointed time; it hastens to the end — it will not lie. If it seems slow, wait for it."_ |
+| **Core Theme** | Patient vigilance when the answer is overdue — the discipline of watching when everyone else has given up |
+| **Subtle Lyric Angle** | Habakkuk physically stations himself on a tower and says, "I will watch to see what He will say." The lyric inhabits that sustained posture — the person who has been waiting for something promised, mocked by others for their persistence, watching a road where nothing has appeared for years. The pivot is the reassurance: the vision has an appointed time. It will not lie. The call is not to force the answer but to hold the post until it arrives on its own schedule. |
+| **Suggested Genre** | **Ambient Post-Rock / Cinematic Instrumental Vocal** — layered tremolo guitars, swelling reverb, patient builds over extended bars, falsetto vocal over massive guitar walls |
+| **Suno Tags** | `ambient post-rock, cinematic, tremolo guitar, reverb, patient build, falsetto, massive` |
+| **Status** | 🔲 Planned |
+
+---
+
+### Song 38 — The Oil and the Wine
+
+| Detail | |
+|---|---|
+| **Scripture** | **Luke 10:33-35** |
+| **Key Verses** | _"But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion. He went to him and bound up his wounds, pouring on oil and wine."_ |
+| **Core Theme** | Healing that arrives from the person you least expected — the outsider who stops when the qualified walk past |
+| **Subtle Lyric Angle** | The parable's sting is in who helps and who doesn't. The priest crosses the road. The Levite crosses the road. The hero is the ethnic and religious outsider — the one with no obligation. The lyric modernises the road: a highway shoulder, a ditch, a vehicle pulling over. The "oil and wine" become any act of costly, unasked-for care. The bridge carries the stunning instruction: "Whatever more you spend, I will repay." Unlimited liability taken on behalf of a stranger. |
+| **Suggested Genre** | **Vintage Soul / Gospel-Tinged R&B** — warm Wurlitzer organ, Motown bass line, handclaps, rich tenor vocal with gospel melisma |
+| **Suno Tags** | `vintage soul, gospel R&B, Wurlitzer, Motown bass, handclaps, rich tenor, warm` |
+| **Status** | 🔲 Planned |
+
+---
+
+### Song 39 — The Mantle Falling
+
+| Detail | |
+|---|---|
+| **Scripture** | **2 Kings 2:11-14** |
+| **Key Verses** | _"And Elisha saw it and he cried… He took up the cloak of Elijah that had fallen from him and struck the water… and the water was parted."_ |
+| **Core Theme** | Inheriting a calling bigger than yourself — the terrifying moment the mentor disappears and the weight of continuation lands on you |
+| **Subtle Lyric Angle** | Elijah is taken up in a whirlwind and chariot of fire. Elisha is left standing alone on the bank with nothing but a fallen cloak — the entire weight of a prophetic mission. Elisha tears his own clothes (his old identity) and picks up the cloak. Then he tests it: he strikes the Jordan. The lyric is about anyone who has watched a mentor or leader depart and must decide whether to carry what was left behind — with no guarantee the same power will operate through their lesser hands. |
+| **Suggested Genre** | **Indie Orchestral / Epic Folk** — sweeping strings, military snare build, grand acoustic guitar, powerful vocal rising from intimate to anthemic |
+| **Suno Tags** | `indie orchestral, epic folk, sweeping strings, military snare, grand acoustic, anthemic` |
+| **Status** | 🔲 Planned |
+
+---
+
+### Song 40 — The Hidden Well
+
+| Detail | |
+|---|---|
+| **Scripture** | **Genesis 26:18-22** |
+| **Key Verses** | _"And Isaac dug again the wells of water that had been dug in the days of Abraham his father, which the Philistines had stopped… He called its name Rehoboth, saying, 'For now the LORD has made room for us.'"_ |
+| **Core Theme** | Reopening sources of life that others tried to bury — persistence in digging through resistance until you find space |
+| **Subtle Lyric Angle** | Isaac's father Abraham dug wells (sources of life in the desert), but after Abraham's death, the Philistines filled them with earth out of jealousy. Isaac doesn't invent new wells — he re-digs the old ones. He reopens what was buried. When enemies quarrel over the first and second, he moves on until he finds "Rehoboth" — room enough. The lyric applies to anyone whose sources of life (creativity, faith, family heritage, purpose) have been buried by hostile hands. The call is: dig again. The water hasn't dried up — it's been blocked. |
+| **Suggested Genre** | **Desert Rock / Psychedelic Folk** — droning guitars, Middle Eastern scales, hypnotic rhythm, raspy vocal delivery, building intensity |
+| **Suno Tags** | `desert rock, psychedelic folk, droning guitar, Middle Eastern, hypnotic, raspy, building` |
+| **Status** | 🔲 Planned |
+
+---
+
 ## Folder Structure
 
 ```
@@ -262,7 +402,7 @@ scripture-series/
     SCRIPTURE-LYRICS-PLAN.md
     SINHALA-REFINE-PLAN.md
 
-  secret-masterpieces/                  ← Songs 16 to 30 with consecutive end-rhymes (AABB)
+  secret-masterpieces/                  ← Songs 16 to 40 with consecutive end-rhymes (AABB)
     SECRET-MASTERPIECES-PLAN.md         ← this file
     16-achors-door/
       16-achors-door.txt                ← English lyrics
@@ -309,6 +449,36 @@ scripture-series/
     30-the-hermon-dew/
       30-the-hermon-dew.txt
       30-the-hermon-dew.md
+    31-the-scarlet-thread/
+      31-the-scarlet-thread.txt
+      31-the-scarlet-thread.md
+    32-the-locked-garden/
+      32-the-locked-garden.txt
+      32-the-locked-garden.md
+    33-the-fourth-watch/
+      33-the-fourth-watch.txt
+      33-the-fourth-watch.md
+    34-the-threshing-floor/
+      34-the-threshing-floor.txt
+      34-the-threshing-floor.md
+    35-the-salt-covenant/
+      35-the-salt-covenant.txt
+      35-the-salt-covenant.md
+    36-the-refiners-flame/
+      36-the-refiners-flame.txt
+      36-the-refiners-flame.md
+    37-the-watchmans-tower/
+      37-the-watchmans-tower.txt
+      37-the-watchmans-tower.md
+    38-the-oil-and-the-wine/
+      38-the-oil-and-the-wine.txt
+      38-the-oil-and-the-wine.md
+    39-the-mantle-falling/
+      39-the-mantle-falling.txt
+      39-the-mantle-falling.md
+    40-the-hidden-well/
+      40-the-hidden-well.txt
+      40-the-hidden-well.md
 ```
 
 ---
