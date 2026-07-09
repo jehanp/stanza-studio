@@ -16,10 +16,10 @@ and judged the shadows underneath my eyes.
 
 ### Pre-Chorus
 
-I searched for bread inside the empty streets,
-where everything is bought and then repeats.
+I searched for bread inside the crowded stores,
+where every hunger's fed, then hungers more.
 But in the deepest silence of the night,
-a hidden taste was turning into light.
+a hidden grace was breaking into light.
 
 ### Chorus
 
@@ -37,10 +37,10 @@ where truth is looking back into my face.
 
 ### Pre-Chorus
 
-I searched for bread inside the empty streets,
-where everything is bought and then repeats.
+I searched for bread inside the crowded stores,
+where every hunger's fed, then hungers more.
 But in the deepest silence of the night,
-a hidden taste was turning into light.
+a hidden grace was breaking into light.
 
 ### Chorus
 
@@ -74,7 +74,7 @@ and leads me safely through the neon night.
 
 | Scripture Image | Lyric Translation |
 |---|---|
-| "Hidden manna" | "a hidden taste was turning into light" (nourishment in the silence/dark) |
+| "Hidden manna" | "a hidden grace was breaking into light" (nourishment in the silence/dark) |
 | "A white stone" | "my fingers touch a polished stone" / "white stone shines" |
 | "A new name written on the stone" | "with secret letters meant for me alone... secret name is carved so deep and clear" |
 | "No one knows except the one who receives it" | "secret letters meant for me alone" / "no thief can break the seal... of what is written in this hidden space" |
