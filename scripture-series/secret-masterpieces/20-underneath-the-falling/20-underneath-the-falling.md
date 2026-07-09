@@ -9,9 +9,9 @@
 
 ### Verse 1
 
-I watched the rafters cracking in the hall,
+I watched the mirrors shatter down the hall,
 and felt the sudden pressure of the fall.
-The floorboards parted like a frozen lake,
+The threshold opened like a frozen lake,
 to swallow every promise we could make.
 
 ### Chorus
@@ -44,15 +44,15 @@ to turn the final drop into a grace.
 
 ### Final Chorus
 
-So let the heavy architecture break,
+So let the heavy walls around us break,
 and let the sleepy world begin to wake.
 There is no ruin in the long descent,
-for underneath, the oldest arms are bent.
+for underneath, the ancient arms are bent.
 
 ### Outro
 
 The ground has vanished but we do not fall,
-the quiet dark is holding up us all.
+the silent deep is holding up us all.
 
 ---
 
@@ -60,7 +60,7 @@ the quiet dark is holding up us all.
 
 | Scripture Image | Lyric Translation |
 |---|---|
-| "The eternal God is your dwelling place" | "This falling is a home we didn't plan" / "the quiet dark is holding up us all" |
-| "Underneath are the everlasting arms" | "right beneath the bottom of the deep, a pair of hands is waiting here to keep" / "the oldest arms are bent" |
-| The safety of falling / surrender | "rafting cracking... floorboards parted... rush of empty, open air... no ruin in the long descent" |
-| Overcoming human striving/structures | "fences where we hide" / "heavy architecture break" / "towers built so high" |
+| "The eternal God is your dwelling place" | "This falling is a home we didn't plan" / "the silent deep is holding up us all" |
+| "Underneath are the everlasting arms" | "right beneath the bottom of the deep, a pair of hands is waiting here to keep" / "the ancient arms are bent" |
+| The safety of falling / surrender | "mirrors shatter down the hall... threshold opened like a frozen lake... rush of empty, open air... no ruin in the long descent" |
+| Overcoming human striving/structures | "fences where we hide" / "heavy walls around us break" / "towers built so high" |
